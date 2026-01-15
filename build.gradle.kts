@@ -15,7 +15,7 @@ repositories {
 
 dependencies {
     // Hytale Server API (provided by server at runtime)
-    compileOnly(files("libs/hytale-server.jar"))
+    compileOnly(files("libs/HytaleServer.jar"))
     
     // Common dependencies (will be bundled in JAR)
     implementation("com.google.code.gson:gson:2.10.1")
@@ -59,7 +59,7 @@ tasks {
     
     // Configure ShadowJar (bundle dependencies)
     shadowJar {
-        archiveBaseName.set(rootProject.name)
+        archiveBaseName.set("Faster-Mining")
         archiveClassifier.set("")
         
         // Relocate dependencies to avoid conflicts

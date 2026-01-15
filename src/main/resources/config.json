@@ -1,9 +1,0 @@
-{
-  "miningSpeedMultiplier": 2.0,
-  "affectAllBlocks": true,
-  "whitelistedBlocks": [
-    "Ore_Iron_",
-    "Ore_Gold_",
-    "Ore_Copper_"
-  ]
-}

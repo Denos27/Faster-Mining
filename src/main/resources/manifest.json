@@ -2,12 +2,11 @@
   "Group": "FasterMining",
   "Name": "FasterMining",
   "Version": "1.0.0",
-  "Description": "A plugin to mine faster",
+  "Description": "Increase the mining power of every tools in the game",
   "Authors": [
     {
       "Name": "Denos",
-      "Email": "denoscontactpro@gmail.com",
-      "Url": "https://your-website.com"
+      "Email": "denoscontactpro@gmail.com"
     }
   ],
   "Website": "https://github.com/Denos27/Faster-Mining.git",

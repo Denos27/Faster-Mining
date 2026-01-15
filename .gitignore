@@ -9,6 +9,9 @@ build/
 # Server testing directory
 run/
 
+# Hytale Server
+HytaleServer.jar
+
 # IntelliJ IDEA
 .idea/
 *.iws
