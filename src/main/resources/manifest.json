@@ -1,17 +1,17 @@
 {
-  "Group": "TemplatePlugin",
-  "Name": "TemplatePlugin",
+  "Group": "FasterMining",
+  "Name": "FasterMining",
   "Version": "1.0.0",
-  "Description": "A Hytale plugin template",
+  "Description": "A plugin to mine faster",
   "Authors": [
     {
-      "Name": "YourName",
-      "Email": "your.email@example.com",
+      "Name": "Denos",
+      "Email": "denoscontactpro@gmail.com",
       "Url": "https://your-website.com"
     }
   ],
-  "Website": "https://github.com/yourusername/hytale-plugin-template",
-  "Main": "com.example.templateplugin.TemplatePlugin",
+  "Website": "https://github.com/Denos27/Faster-Mining.git",
+  "Main": "com.example.fastermining.FasterMining",
   "ServerVersion": "*",
   "Dependencies": {},
   "OptionalDependencies": {},
